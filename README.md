@@ -11,12 +11,12 @@ The user interface is clean, minimal, and inspired by modern messaging apps. It 
 
 ### Features
 
-* ✅ **Real-Time Messaging** (via WebSocket Echo Server)
-* 🎨 **Light and Dark Theme Toggle** (🌓 emoji, with CSS variables)
-* 📱 **Responsive Design** (works on desktops, tablets, and phones)
-* 🧠 **Frontend Only** – No backend required
-* 🔁 **Auto-Scroll** to latest messages
-* 💻 **Modern UI** with smooth layout and full-height chat area
+*  **Real-Time Messaging** (via WebSocket Echo Server)
+*  **Light and Dark Theme Toggle** (🌓 emoji, with CSS variables)
+*  **Responsive Design** (works on desktops, tablets, and phones)
+*  **Frontend Only** – No backend required
+*  **Auto-Scroll** to latest messages
+*  **Modern UI** with smooth layout and full-height chat area
 
 
 ### How It Works
@@ -36,4 +36,6 @@ The user interface is clean, minimal, and inspired by modern messaging apps. It 
 
 ### Screenshot
 
+<img width="1919" height="1086" alt="Image" src="https://github.com/user-attachments/assets/6b036a6e-ade6-476e-9cdd-37bbec1eeb9c" />
 
+<img width="1919" height="1025" alt="Image" src="https://github.com/user-attachments/assets/97d302a9-25fa-4455-963c-6ca356478eff" />
